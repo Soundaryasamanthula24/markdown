@@ -59,3 +59,33 @@
  # how to access links
  
  [youtube](https://www.youtube.com/)
+ 
+ 
+ # order list
+ 1. django framework
+ 30. java 
+100. cherry file
+ 50. bottle
+
+# unorder list
+ + selinium
+ 1. one dot
+ - numpy
+
+# backtick
+ `git&github`
+ 
+ # blockquotes
+ > hi how are you?
+ > what are doing?
+  
+  \* github\*
+  
+  # table representation
+  
+  | s.no  | college | place |
+  |-------|---------|-------|
+  | 1     | pace    |ongole |
+  | 2     | nri     | ongole|
+  | 3     | rise    | ong   |
+  
