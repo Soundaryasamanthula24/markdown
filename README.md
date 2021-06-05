@@ -54,4 +54,4 @@
  
  # How to access offline image
  
- < img src = " " >
+ <img src = "https://raw.githubusercontent.com/Soundaryasamanthula24/markdown/main/1.jpg" width = 350px  height = 250px>
